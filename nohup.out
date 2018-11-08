@@ -1,0 +1,7 @@
+"sni-qt/27684" WARN  13:56:38.084 void StatusNotifierItemFactory::connectToSnw() Invalid interface to SNW_SERVICE 
+*** WARNING *** The program 'synergy' uses the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=synergy>
+*** WARNING *** The program 'synergy' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=synergy&f=DNSServiceRegister>
